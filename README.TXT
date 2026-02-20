@@ -17,4 +17,5 @@ git status
 git clone <nome do repositório>
 ex: git clone https://github.com/GleiceAvelinor/curso-git.git
 
+# Verifcando as linhas que foram modificadas
 git diff
