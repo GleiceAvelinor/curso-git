@@ -47,4 +47,4 @@ Date:   Thu Feb 19 23:18:31 2026 -0300
 :
 # Uso do comando
 git restore 
-git restore -staged
+git restore --staged
