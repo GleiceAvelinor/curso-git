@@ -45,4 +45,6 @@ Date:   Thu Feb 19 23:18:31 2026 -0300
     Added instructions for pulling updates from the remote repository.
 
 :
-
+# Uso do comando
+git restore 
+git restore -staged
