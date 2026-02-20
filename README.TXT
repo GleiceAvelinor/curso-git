@@ -23,6 +23,8 @@ ex: git clone https://github.com/GleiceAvelinor/curso-git.git
 git diff
 git staged 
 
+# Criando uma branche
+
 # Atualizando o repositório remoto para máquina
 git pull - ja faz o merge direto na maquina
 
