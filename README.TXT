@@ -26,3 +26,23 @@ git pull
 
 # Gravando alterações no repositório
 git commit -m 
+
+# Histórico dos commit
+git log
+PS C:\Users\ednar\OneDrive\Documentos\Curso_GIT> git log
+commit 146a5f2984d10918ed1ec0f1a778a1f031b462d1 (HEAD -> master, origin/master)
+Author: GleiceAvelinor <gleiceavelinor@gmail.com>
+Date:   Thu Feb 19 23:26:24 2026 -0300
+
+    gravando alteração no código com o git commit -m
+
+commit 22ac59f92d1af88a584de97aeeafcae3e3fffcc4
+Author: Gleice Avelino <gleiceavelinor@gmail.com>
+Date:   Thu Feb 19 23:18:31 2026 -0300
+
+    Update README with git pull command
+
+    Added instructions for pulling updates from the remote repository.
+
+:
+
