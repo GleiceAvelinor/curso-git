@@ -24,10 +24,10 @@ git diff
 git staged 
 
 # Atualizando o repositório remoto para máquina
-git pull
+git pull - ja faz o merge direto na maquina
 
 # Atualizando o repositório remoto para máquina, esse comando aguarda o dev analisar o código antes de fazer o git pull.
-git fetch -
+git fetch -Baixar objetos e referências de outro repositório
 git diff fetch origin/master(mostra a linha que foi alterado)
 
 
