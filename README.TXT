@@ -10,6 +10,8 @@ git add .
 git commit -m "first commit"
 git push -u origin master
 
+# Gerencie o conjunto de repositórios ("remotos") cujos branches você monitora.
+git remote
 #verificar o estado do git 
 git status
 
@@ -23,6 +25,8 @@ git staged
 
 # Atualizando o repositório remoto para máquina
 git pull
+# Atualizando o repositório remoto para máquina, esse comando aguarda o dev analisar o código antes de fazer o git pull.
+git fetch -
 
 # Gravando alterações no repositório
 git commit -m 
