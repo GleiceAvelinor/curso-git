@@ -25,8 +25,12 @@ git staged
 
 # Atualizando o repositório remoto para máquina
 git pull
+
 # Atualizando o repositório remoto para máquina, esse comando aguarda o dev analisar o código antes de fazer o git pull.
 git fetch -
+git diff fetch origin/master(mostra a linha que foi alterado)
+
+
 
 # Gravando alterações no repositório
 git commit -m 
