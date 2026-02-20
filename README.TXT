@@ -23,3 +23,6 @@ git staged
 
 # Atualizando o repositório remoto para máquina
 git pull
+
+# Gravando alterações no repositório
+git commit -m 
